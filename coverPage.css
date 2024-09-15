@@ -1,0 +1,113 @@
+.block1 {
+	position: absolute;
+	display: block;
+	width: 59%;
+	margin-left: 20%;
+	border: none;
+	padding: 14px 28px;
+	font-size: 16px;
+	text-align: center;
+	background-color: #F2725D;
+	color: black;
+	border-radius: 50px;
+	height: 100px;
+	font-size: 35px;
+	font-family: Comic Sans;
+	font-weight: bold;
+}
+
+.block2 {
+	position: absolute;
+	display: block;
+	width: 59%;
+	margin-left: 20%;
+	border: none;
+	padding: 14px 28px;
+	font-size: 16px;
+	text-align: center;
+	background-color: #FFFF50;
+	color: black;
+	border-radius: 50px;
+	height: 100px;
+	font-size: 35px;
+	font-family: Comic Sans;
+	font-weight: bold;
+}
+
+.block3 {
+	position: absolute;
+	display: block;
+	width: 59%;
+	margin-left: 20%;
+	border: none;
+	padding: 14px 28px;
+	font-size: 16px;
+	text-align: center;
+	background-color: #AFF7B6;
+	color: black;
+	border-radius: 50px;
+	height: 100px;
+	font-size: 35px;
+	font-family: Comic Sans;
+	font-weight: bold;
+}
+
+.block4 {
+	position: absolute;
+	display: block;
+	width: 59%;
+	margin-left: 20%;
+	border: none;
+	padding: 14px 28px;
+	font-size: 16px;
+	text-align: center;
+	background-color: #93ECF8;
+	color: black;
+	border-radius: 50px;
+	height: 100px;
+	font-size: 35px;
+	font-family: Comic Sans;
+	font-weight: bold;
+}
+
+.h1 {
+	text-align: center;
+	background-color: white;
+	border: 5%;
+	width: 32%;
+	margin-left: 34%;
+	font-size: 400%;
+}
+
+.h2 {
+	text-align: center;
+	background-color: white;
+	border: 5%;
+	width: 24%;
+	margin-left: 38%;
+	font-size: 275%;
+	margin-top: 2.5%;
+}
+
+
+
+.home {
+	display: block;
+	border: none;
+	padding: 14px 28px;
+	text-align: center;
+	background-color: #DDAAFF;
+	border-radius: 50px;
+	height: 85px;
+	font-size: 20px;
+	font-family: Comic Sans;
+	margin-left: 10px;
+	margin-top: 0.7%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+body {
+	background-image: url('background.jpeg');  /* image from https://cdn2.vectorstock.com/i/1000x1000/26/81/colored-seamless-background-with-question-marks-vector-30182681.jpg */
+}

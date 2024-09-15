@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Silhouette Game</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="10teacher.css">
+    <button type="button" onclick="returnToHome('index.html')" class="home">
+        <img src="homeButton.png" alt="Home Page!" width="50px" />   <!--home button image from https://stock.adobe.com/search?k=transparent+home+button-->
+    </button>
+    <div id="optionsContainer"></div><br>
+    <button id="submitButton" onclick="checkAnswer()">Submit</button>
+</head>
+
+<body>
+    <img id="silhouetteImage" alt="Silhouette Image">
+    <br></br>
+
+    <div id="message"></div>
+    <button id="continueButton" onclick="nextQuestion()">Continue</button>
+
+    <script src="10teacher.js"></script>
+
+</body>
+
+</html>

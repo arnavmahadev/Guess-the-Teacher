@@ -1,0 +1,74 @@
+.home {
+    display: block;
+    border: none;
+    padding: 14px 28px;
+    text-align: center;
+    background-color: white;
+    color: white;
+    border-radius: 50px;     /*from https://www.w3schools.com/jsref/prop_style_borderradius.asp*/
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    height: 85px;
+    font-size: 20px;
+    font-family: Comic Sans;
+    margin-left: 10px;
+    margin-top: 0.7%;
+}
+
+#pic {
+    position: absolute;
+    width: 330px;
+    height: 400px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 40%;
+}
+
+
+
+#hintbutton {
+    margin-left: 44.45%;
+    margin-top: 30%;
+}
+
+#silhouetteImage {
+    margin-left: 40%;
+    text-align: center;
+    width: 20%;
+    margin-top: 2%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+}
+
+#message {
+    text-align: center;
+    font-family: Comic Sans;
+    font-size: 200%;
+}
+
+body {
+    background-color: #FFFFCE;
+}
+
+#optionsContainer {
+    margin-left: 44%;
+    font-size: 25px;
+    font-family: Comic Sans;
+    font-weight: bold;    /* from https://www.w3schools.com/jsref/prop_style_fontweight.asp */
+}
+
+#submitButton {
+    margin-left: 48%;
+    font-size: 25px;
+    font-family: Comic Sans;
+    font-weight: bold;
+}
+
+#continueButton {
+    margin-left: 47.2%;
+    font-size: 25px;
+    font-family: Comic Sans;
+    font-weight: bold;
+}
